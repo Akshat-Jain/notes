@@ -7,7 +7,7 @@
 
   # Build command
   # Use the build script at root of repo
-  command = "./vault/dendron-publish-site.sh"
+  command = "./dendron-publish-site.sh"
 
 [build.environment]
 NETLIFY_NEXT_PLUGIN_SKIP = "true"
