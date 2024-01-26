@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: vault
+            name: notes
     journal:
         dailyDomain: daily
         name: journal
@@ -82,7 +82,6 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: https://notes.akjn.dev/
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
