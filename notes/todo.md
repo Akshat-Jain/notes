@@ -2,9 +2,11 @@
 id: dcbltqh100v4mojtnsi0h5n
 title: Todo
 desc: ''
-updated: 1706541765979
+updated: 1707025847590
 created: 1706531464704
 ---
+
+**This page is a WIP.**
 
 I'm thinking of the following hierarchy:
 - Root: Me
@@ -18,12 +20,9 @@ I'm thinking of the following hierarchy:
 - Movies
 - Sports
 - Subdomains
+- Today I learned
 - Random thoughts
 - Social links
-
-Initiatives:
-1. Started by me (reading group, community experiment, Blog writing)
-2. I was a part of (reading group by Phil, Abhinav's session on 1BRC)
 
 
 Other dendron related todos:
