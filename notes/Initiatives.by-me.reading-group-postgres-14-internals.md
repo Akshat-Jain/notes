@@ -2,7 +2,7 @@
 id: book-club
 title: Book Club - PostgreSQL 14 Internals
 desc: ''
-updated: 1707674503382
+updated: 1707794966391
 created: 1706541552953
 ---
 
@@ -80,7 +80,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>August 25th, 2024</td><td>Achyuth Reddy</td><td>25</td><td>B-tree</td></tr>
     <tr><td>September 1st, 2024</td><td>Naman Modi</td><td>26</td><td>GiST</td></tr>
     <tr><td>September 8th, 2024</td><td>TBD</td><td>27</td><td>SP-GiST</td></tr>
-    <tr><td>September 15th, 2024</td><td>TBD</td><td>28</td><td>GIN</td></tr>
+    <tr><td>September 15th, 2024</td><td>Sreeram Venkitesh</td><td>28</td><td>GIN</td></tr>
     <tr><td>September 22nd, 2024</td><td>Diego</td><td>29</td><td>BRIN</td></tr>
   </tbody>
 </table>
