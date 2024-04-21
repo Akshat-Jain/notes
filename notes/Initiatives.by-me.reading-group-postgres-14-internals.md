@@ -2,7 +2,7 @@
 id: book-club
 title: Book Club - PostgreSQL 14 Internals
 desc: ''
-updated: 1707928383256
+updated: 1713712749221
 created: 1706541552953
 ---
 
@@ -55,7 +55,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>March 30th, 2024</td><td>Pankaj Vatwani</td><td>4</td><td>Snapshots</td></tr>
     <tr><td>April 6th, 2024</td><td>Akshat Jaimini</td><td>5</td><td>Page Pruning and HOT Updates</td></tr>
     <tr><td>April 13th, 2024</td><td>Varun Upadhyay</td><td>6</td><td>Vacuum and Autovacuum</td></tr>
-    <tr><td>April 20th, 2024</td><td>Dhananjay Naik</td><td>7</td><td>Freezing</td></tr>
+    <tr><td>April 20th, 2024</td><td>Akshat Jain</td><td>7</td><td>Freezing</td></tr>
     <tr><td>April 27th, 2024</td><td>Sandeep Pandey</td><td>8</td><td>Rebuilding Tables and Indexes</td></tr>
     <tr><th colspan="4">Part II Buffer Cache and WAL</th></tr>
     <tr><td>May 4th, 2024</td><td>Maneesh Chauhan</td><td>9</td><td>Buffer Cache</td></tr>
