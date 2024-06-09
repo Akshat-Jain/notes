@@ -2,7 +2,7 @@
 id: book-club
 title: Book Club - PostgreSQL 14 Internals
 desc: ''
-updated: 1717318903281
+updated: 1717942665347
 created: 1706541552953
 ---
 
@@ -65,7 +65,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>May 25th, 2024</td><td>Alex O</td><td>12</td><td>Relation-Level Locks</td></tr>
     <tr><td>June 1st, 2024</td><td>Ritwiz Sinha</td><td>13</td><td>Row-Level Locks</td></tr>
     <tr><td>June 8th, 2024</td><td>Ritwiz Sinha</td><td>14</td><td>Miscellaneous Locks</td></tr>
-    <tr><td>June 15th, 2024</td><td>Debojit Dutta</td><td>15</td><td>Locks on Memory Structures</td></tr>
+    <tr><td>June 15th, 2024</td><td>Sambitesh Dash</td><td>15</td><td>Locks on Memory Structures</td></tr>
     <tr><th colspan="4">Part IV Query Execution</th></tr>
     <tr><td>June 22nd, 2024</td><td>Hemant Singh</td><td>16</td><td>Query Execution Stages</td></tr>
     <tr><td>June 29th, 2024</td><td>Raghunath Dhandapani</td><td>17</td><td>Statistics</td></tr>
