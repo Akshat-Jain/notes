@@ -1,8 +1,8 @@
 ---
-id: x595o5lczvdzvro7adsu7m2
+id: hiragana-chart
 title: Hiragana
 desc: ''
-updated: 1721408566704
+updated: 1721410000209
 created: 1721408536588
 ---
 

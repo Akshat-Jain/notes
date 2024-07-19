@@ -1,8 +1,8 @@
 ---
-id: ezktnyn8tj13ltyqpoj1kbx
+id: japanese
 title: Japanese
 desc: ''
-updated: 1721408416249
+updated: 1721409981614
 created: 1721408359745
 ---
 
