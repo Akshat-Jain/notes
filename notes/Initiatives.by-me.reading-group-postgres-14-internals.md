@@ -72,7 +72,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>July 6th, 2024</td><td>Raghunath Dhandapani</td><td>18</td><td>Table Access Methods</td></tr>
     <tr><td>July 13th, 2024</td><td>Bhaskar Metiya</td><td>19</td><td>Index Access Methods</td></tr>
     <tr><td>July 20th, 2024</td><td>Vaibhav Kurhe</td><td>20</td><td>Index Scans</td></tr>
-    <tr><td>July 27th, 2024</td><td>Raghunath Dhandapani</td><td>21</td><td>Nested Loop</td></tr>
+    <tr><td>July 27th, 2024</td><td>Lasse Jacobs</td><td>21</td><td>Nested Loop</td></tr>
     <tr><td>August 3rd, 2024</td><td>Apoorv Singh</td><td>22</td><td>Hashing</td></tr>
     <tr><td>August 10th, 2024</td><td>Anuttam Anand</td><td>23</td><td>Sorting and Merging</td></tr>
     <tr><th colspan="4">Part V Types of Indexes</th></tr>
