@@ -74,7 +74,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>July 20th, 2024</td><td>Vaibhav Kurhe</td><td>20</td><td>Index Scans</td></tr>
     <tr><td>July 27th, 2024</td><td>Lasse Jacobs</td><td>21</td><td>Nested Loop</td></tr>
     <tr><td>August 3rd, 2024</td><td>Apoorv Singh</td><td>22</td><td>Hashing</td></tr>
-    <tr><td>August 10th, 2024</td><td>Anuttam Anand</td><td>23</td><td>Sorting and Merging</td></tr>
+    <tr><td>August 10th, 2024</td><td>Raghunath Dhandapani</td><td>23</td><td>Sorting and Merging</td></tr>
     <tr><th colspan="4">Part V Types of Indexes</th></tr>
     <tr><td>August 17th, 2024</td><td>Sameer Raj</td><td>24</td><td>Hash</td></tr>
     <tr><td>August 24th, 2024</td><td>Achyuth Reddy</td><td>25</td><td>B-tree</td></tr>
