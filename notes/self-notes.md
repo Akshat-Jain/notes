@@ -1,5 +1,5 @@
 ---
-id: njrwzj44a8z8io2i3xqbdxo
+id: self-notes
 title: Self Notes
 desc: ''
 updated: 1717944061612

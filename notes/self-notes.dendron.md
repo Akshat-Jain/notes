@@ -1,7 +1,7 @@
 ---
-id: mc26ziyrzspbnemusy3xap1
+id: dendron-faq
 title: Dendron
-desc: 'asfasf asf '
+desc: 'Self Notes for Dendron'
 updated: 1717945749418
 created: 1717944071165
 ---
