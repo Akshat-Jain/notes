@@ -2,7 +2,7 @@
 id: hiragana-chart
 title: Hiragana
 desc: ''
-updated: 1721410000209
+updated: 1724694264223
 created: 1721408536588
 ---
 
