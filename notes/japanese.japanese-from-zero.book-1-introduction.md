@@ -73,7 +73,7 @@ Hence, きゅう == ki + yu + u == kyuu.
 
 Similarly, じゅう == ji + yu + u == jyuu == juu.
 
-## Why multiple versions?
+### Why multiple versions?
 
 - Sometimes v1 is to be used instead of v2.
 - Sometimes personal preferences.
