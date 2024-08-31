@@ -64,6 +64,15 @@ created: 1721408536588
 | 9  | kyuu (きゅう), ku (く) |
 | 10  | juu (じゅう) |
 
+
+### Question: kyuu == きゅう, juu == じゅう. How? Why?
+
+Because "small yu" changes the sound when followed by a vowel. "small yu" eats the vowel, if it follows any.
+
+Hence, きゅう == ki + yu + u == kyuu.
+
+Similarly, じゅう == ji + yu + u == jyuu == juu.
+
 ## Why multiple versions?
 
 - Sometimes v1 is to be used instead of v2.
