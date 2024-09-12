@@ -80,7 +80,7 @@ To the leaders: You don't have to worry about being an expert, or about what to 
     <tr><td>August 24th, 2024</td><td>Achyuth Reddy</td><td>25</td><td>B-tree</td></tr>
     <tr><td>August 31st, 2024</td><td>Naman Modi</td><td>26</td><td>GiST</td></tr>
     <tr><td>September 7th, 2024</td><td>Lasse Jacobs</td><td>27</td><td>SP-GiST</td></tr>
-    <tr><td>September 14th, 2024</td><td>Sreeram Venkitesh</td><td>28</td><td>GIN</td></tr>
+    <tr><td>September 14th, 2024</td><td>Sambitesh Dash</td><td>28</td><td>GIN</td></tr>
     <tr><td>September 21st, 2024</td><td>Diego</td><td>29</td><td>BRIN</td></tr>
   </tbody>
 </table>
