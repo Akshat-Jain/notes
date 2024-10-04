@@ -2,9 +2,13 @@
 id: book-club
 title: Book Club - PostgreSQL 14 Internals
 desc: ''
-updated: 1717942665347
+updated: 1728074726837
 created: 1706541552953
 ---
+
+## Update: September 22nd, 2024
+
+The book club is now over. If you'd like to get access to the weekly discussion emails, feel free to fill out the Google form. I'll check it periodically and send out Google Group invites. You would have access to all the past discussion emails on Google Groups.
 
 ![](/assets/images/postgresql-14-internals.png)
 
