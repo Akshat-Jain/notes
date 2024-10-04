@@ -1,8 +1,8 @@
 ---
-id: book-club
-title: Book Club - PostgreSQL 14 Internals
+id: postgresql-14-internals
+title: PostgreSQL 14 Internals
 desc: ''
-updated: 1728074726837
+updated: 1728075159473
 created: 1706541552953
 ---
 
