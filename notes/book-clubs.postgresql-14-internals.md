@@ -14,7 +14,7 @@ The book club is now over. If you'd like to get access to the weekly discussion 
 
 We are going to cover <a href="https://postgrespro.com/community/books/internals" target="_blank">PostgreSQL 14 Internals</a> book by Egor Rogov.
 
-We will read **one chapter a week** and discuss over a Google Group. Your email will be public if you post, but otherwise it will not be visible to anyone.
+We will read **one chapter a week** and discuss over a Google Group. Your email will be visible to other group members if you post, but otherwise it will not be visible to anyone.
 
 ## Sign up
 
@@ -34,7 +34,7 @@ The PDF version of the book is available for free <a href="https://edu.postgresp
 
 ## Weekly Chapter Leaders
 
-We will have one person lead the discussion each week. They will send out an email by Saturday of that respective week recapping the chapter and sharing their thoughts. It doesn't have to be exhaustive, could even be a couple of paragraphs - the main intent is to get the discussion going and give others a starting point to chime in.
+We will have one person lead the discussion each week. They will send out an email by Saturday/Sunday of that respective week recapping the chapter and sharing their thoughts. It doesn't have to be exhaustive, could even be a couple of paragraphs - the main intent is to get the discussion going and give others a starting point to chime in.
 
 I'd love to see people interested in volunteering to lead a chapter. But if there aren't any leaders for a week, I'll take up this responsibility and get the discussion going.
 
