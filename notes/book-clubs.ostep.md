@@ -167,7 +167,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>20</td>
       <td>March 29th, 2025</td>
-      <td>@dreamsparkis</td>
+      <td>Amidamaru</td>
       <td>49. Sun’s Network File System (NFS)<br>50. The Andrew File System (AFS)<br>51. Summary Dialogue on Distribution</td>
     </tr>
   </tbody>
