@@ -61,7 +61,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>2</td>
       <td>November 23rd, 2024</td>
-      <td>Shashwat</td>
+      <td>Shashwat Suman</td>
       <td>5. Interlude: Process API<br>6. Mechanism: Limited Direct Execution</td>
     </tr>
     <tr>
