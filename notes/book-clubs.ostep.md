@@ -121,7 +121,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>12</td>
       <td>February 1st, 2025</td>
-      <td>@Elixir_Exchange</td>
+      <td>Rishit Chaudhary</td>
       <td>30. Condition Variables<br>31. Semaphores</td>
     </tr>
     <tr>
