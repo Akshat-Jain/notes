@@ -14,7 +14,9 @@ We will read **2-3 chapters a week** and discuss over a Google Group. Your email
 
 ## Sign up
 
-**If you'd like to join the group, please fill this <a href="https://forms.gle/XK3yjmJmdUouv2VB9" target="_blank">Google form</a>. For any questions, you can reach out to me on <a href="https://twitter.com/AkJn99" target="_blank">Twitter</a>.**
+**If you'd like to join the group, please fill this <a href="https://forms.gle/XK3yjmJmdUouv2VB9" target="_blank">Google form</a>. Please keep an eye out for a Google Groups invitation on the submitted email, and make sure to check the spam folder also for the same.
+
+For any questions, you can reach out to me on <a href="https://twitter.com/AkJn99" target="_blank">Twitter</a>.**
 
 Please spread the word to anyone who might be interested! :)
 
