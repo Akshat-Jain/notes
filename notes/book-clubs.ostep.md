@@ -103,7 +103,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>9</td>
       <td>January 11th, 2025</td>
-      <td>Rishi Ahuja</td>
+      <td>Aashutosh Rathi</td>
       <td>23. Complete Virtual Memory Systems<br>24. Summary Dialogue on Memory Virtualization</td>
     </tr>
     <tr>
