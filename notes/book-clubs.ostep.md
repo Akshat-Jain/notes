@@ -145,7 +145,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>16</td>
       <td>March 1st, 2025</td>
-      <td>Sohom Bhattacharjee</td>
+      <td>Oliver Mannion</td>
       <td>40. File System Implementation<br>41. Locality and The Fast File System</td>
     </tr>
     <tr>
