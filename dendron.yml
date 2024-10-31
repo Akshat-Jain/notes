@@ -82,6 +82,8 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    ga:
+        tracking: G-DGJJX7N75W
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
