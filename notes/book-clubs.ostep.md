@@ -73,7 +73,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>4</td>
       <td>December 7th, 2024</td>
-      <td>Vipul Vaibhaw</td>
+      <td>Zaid Humayun</td>
       <td>9. Scheduling: Proportional Share<br>10. Multiprocessor Scheduling (Advanced)<br>11. Summary Dialogue on CPU Virtualization<br>12. A Dialogue on Memory Virtualization</td>
     </tr>
     <tr>
