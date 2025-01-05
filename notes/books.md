@@ -2,13 +2,24 @@
 id: books
 title: Books
 desc: ''
-updated: 1736067923001
+updated: 1736068645766
 created: 1706531624211
 ---
 
-I picked up the habit of reading back in 2022. I ordered a Kindle back in January 2022, to push me to read more, and it worked quite well! :D
+I picked up the habit of reading back in 2022. I ordered a Kindle back in January 2022, to push me to read more, and it worked quite well. If it works, it works! :D
 
 This page catalogs the books I’m currently reading, as well as those I have read or dropped in the past, along with my brief opinion on each.
+
+---
+
+## Recommendations
+
+If I had to recommend only 5 books from the below list, I'd recommend these:
+- Steve Jobs (by Walter Isaacson)
+- The Almanack Of Naval Ravikant (by Eric Jorgenson)
+- Elon Musk (by Walter Isaacson)
+- That Will Never Work (by Mark Randolph)
+- No Rules Rules (by Reed Hastings & Erin Meyer)
 
 ---
 
@@ -82,7 +93,7 @@ This page catalogs the books I’m currently reading, as well as those I have re
 - **$100M Offers** (by Alex Hormozi)  
   *I found the premise interesting: how to think when we're trying to create a price-value proposition for customers of our product. It was a good read!*
 
-- **Netflix: What Happens When You Press Play?** (by Alok R. Choudhary)  
+- **Netflix: What Happens When You Press Play?** (by Todd Hoff)  
   *I probably picked this up only because it was available for free, and was a short read. This felt like a system-design walkthrough of Netflix. I finished it, but don't think it's worth reading. Won't recommend.*
 
 - **The Almanack Of Naval Ravikant** (by Eric Jorgenson)  
