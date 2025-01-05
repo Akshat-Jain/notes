@@ -2,7 +2,7 @@
 id: books
 title: Books
 desc: ''
-updated: 1736068645766
+updated: 1736068916017
 created: 1706531624211
 ---
 
@@ -70,6 +70,8 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 - **No Rules Rules** (by Reed Hastings & Erin Meyer)  
   *This book by Reed Hastings (the CEO of Netflix) was an absolutely amazing read. It talks about the kind of culture they made at Netflix, and the ways they did so. One of my favorite examples was the unlimited leave policy, and how it should actually be implemented in practice. Great read, highly recommend!*
+
+  *PS: I would suggest reading this after "That Will Never Work". While this could be read independent of that, I felt having read "That Will Never Work" prior to this made it more enjoyable for me personally.*
 
 - **That Will Never Work** (by Mark Randolph)  
   *This book by Mark Randolph, the founder of Netflix, was a great journey of how Netflix went from a concept to a company. Great read, highly recommend!*
