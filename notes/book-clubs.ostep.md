@@ -133,7 +133,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>14</td>
       <td>February 15th, 2025</td>
-      <td>Pratyush Singhal</td>
+      <td>Akshat Jain</td>
       <td>35. A Dialogue on Persistence<br>36. I/O Devices<br>37. Hard Disk Drives</td>
     </tr>
     <tr>
