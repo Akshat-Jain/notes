@@ -2,7 +2,7 @@
 id: unravel
 title: Unravel
 desc: ''
-updated: 1739720037865
+updated: 1740297950684
 created: 1739715830178
 ---
 
@@ -69,7 +69,50 @@ dare ga iru no? - "Who is there?"
 <details><summary>Kowareta, kowareta yo kono sekai de</summary>
 
 ```text
-TBD
+English lyrics: I'm broken, lying helpless, shattered, surrounded by the world
+
+kowareru - verb, "to break" / "to be broken" / "to shatter"
+ta-form – past tense, indicating a completed action
+kowareta - "It’s broken" / "I’m broken" / "It shattered"
+
+The repetition "kowareta, kowareta" emphasizes the state of being broken, suggesting a sense of despair or intensity.
+
+--
+
+yo – sentence-ending particle used for emphasis, assertion, or to urge someone
+kowareta yo = "I’m broken!" (with more emphasis than just "kowareta")
+
+--
+
+kono - this
+sekai - noun, means "world"
+de – particle indicating location or context, often translated as "in" or "by"
+kono sekai de - "in this world" / "surrounded by this world"
+```
+
+</details>
+
+<details><summary>Kimi ga warau nanimo miezu ni</summary>
+
+```text
+English lyrics: And yet, you're smiling bright, completely blind to life
+
+kimi - "you" (informal, often used by males)
+ga - particle marking the subject of the sentence, indicating "you" as the one performing the action
+kimi ga - "you (are the one who)"
+
+warau - verb, "to laugh" / "to smile"
+kimi ga warau - "you laugh" / "you smile"
+
+--
+
+nanimo - "nothing" (nani = "what" + mo = "even/any," together meaning "not anything")
+mieru - verb, "to be visible" / "to be seen" / "to see"
+zu - negative form, making "miezu" mean "not visible" / "cannot see" / "blind"
+ni - particle often used with negative verbs to indicate circumstance or manner, here suggesting "without seeing" or "being blind to"
+nanimo miezu ni - "without seeing anything" / "completely blind to"
+
+Together, "kimi ga warau nanimo miezu ni" conveys "you smile, unable to see anything," tying into the English theme of smiling despite being unaware or blind to reality.
 ```
 
 </details>
