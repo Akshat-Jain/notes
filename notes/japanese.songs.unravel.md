@@ -2,7 +2,7 @@
 id: unravel
 title: Unravel
 desc: ''
-updated: 1740311643230
+updated: 1740311848220
 created: 1739715830178
 ---
 
@@ -245,14 +245,6 @@ Mujaki ni waratta kioku ga sasatte
 Ugokenai, ugokenai, ugokenai
 Ugokenai, ugokenai, ugokenai yo
 Unravelling the world
-You might also like
-“Slut!” (Taylor’s Version) [From The Vault]
-Taylor Swift
-But Daddy I Love Him
-Taylor Swift
-So Long, London
-Taylor Swift
-[Instrumental Break]
 
 [Bridge]
 Kawatte shimatta kaerarenakatta
