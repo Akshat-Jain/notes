@@ -2,7 +2,7 @@
 id: ostep
 title: 'Operating Systems: Three Easy Pieces'
 desc: ''
-updated: 1728197405107
+updated: 1740294062096
 created: 1706541552953
 ---
 
@@ -151,7 +151,7 @@ Note: Each week ranges between 20-40 pages, averaging at 31 pages per week.
     <tr>
       <td>17</td>
       <td>March 8th, 2025</td>
-      <td>Tanay Maheshwari</td>
+      <td>Akshat Jain</td>
       <td>42. Crash Consistency: FSCK and Journaling<br>43. Log-structured File Systems</td>
     </tr>
     <tr>
