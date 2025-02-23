@@ -2,7 +2,7 @@
 id: unravel
 title: Unravel
 desc: ''
-updated: 1740297950684
+updated: 1740311643230
 created: 1739715830178
 ---
 
@@ -117,6 +117,98 @@ Together, "kimi ga warau nanimo miezu ni" conveys "you smile, unable to see anyt
 
 </details>
 
+<details><summary>Kowareta boku nante sa</summary>
+
+```text
+English lyrics: My ruptured lungs, they were left this way
+
+kowareru - verb, "to break" / "to be broken" / "to shatter"
+ta-form – past tense, indicating a completed action
+kowareta - "broken" / "shattered"
+boku - "I" / "me" (informal, often masculine)
+nante - particle expressing emphasis or exclamation, often with a sense of "something like" or "such a thing as"
+sa - sentence-ending particle for emphasis or casual tone
+kowareta boku nante sa - literally "a broken me" / "I’m broken, aren’t I"
+```
+
+</details>
+
+<details><summary>Iki wo tomete</summary>
+
+```text
+English lyrics: For once, I'm out of breath
+
+iki - noun, "breath" / "breathing"
+wo - direct object marker, indicating "breath" as the object of the verb
+tomeru - verb, "to stop" / "to hold"
+te-form – used for sequential actions or requests, here indicating the action of "stopping breath"
+iki wo tomete - "holding my breath" / "stopping my breath"
+```
+
+</details>
+
+<details><summary>Hodokenai mou hodokenai yo</summary>
+
+```text
+English lyrics: The truth I seek never felt so bleak
+
+hodokeru - verb, "to come loose" / "to be untied" / "to be solved" (as in, opposite of "to unravel")
+nai - negative form, "not coming loose" / "cannot be untied"
+hodokenai - "it won’t come loose" / "it can’t be solved" / "it can't be unraveled"
+mou - adverb, "already" / "anymore," adding a sense of finality
+yo - sentence-ending particle for emphasis or assertion
+
+hodokenai mou hodokenai yo - Can't unravel, can't unravel anymore
+```
+
+</details>
+
+<details><summary>Shinjitsu sae, freeze</summary>
+
+```text
+English lyrics: But I maintain my depth, freeze
+
+shinjitsu - noun, "truth" / "reality"
+sae - particle meaning "even" or "only," emphasizing "truth" as something notable
+freeze - English word "freeze," adopted into Japanese, meaning "to freeze" or "to stop"
+shinjitsu sae, freeze - "Even the truth freeze" / "The truth itself stops"
+```
+
+</details>
+
+<details><summary>Kowaseru, kowasenai, kurueru, kuruenai</summary>
+
+```text
+English lyrics: I'm breakable, unbreakable, I'm shaking yet unshakable
+
+kowaseru - potential form of "kowasu", meaning "can break"
+kowasenai - negative potential form, meaning "cannot break"
+
+kurueru - potential form of "kuruu" (狂う), meaning "can go mad" (can lose control / can shake)
+kuruenai - negative potential form, meaning "cannot go mad"
+
+kowaseru, kowasenai - "I can break, I cannot break"
+kurueru, kuruenai - "I can go mad, I cannot go mad"
+
+kowaseru, kowasenai, kurueru, kuruenai - "breakable, unbreakable, shakable, unshakable"
+```
+
+</details>
+
+<details><summary>Anata wo mitsukete</summary>
+
+```text
+English lyrics: Until the day that you find me
+
+anata - "you" (polite or neutral pronoun)
+wo - direct object marker, indicating "you" as the object of the verb
+mitsukeru - verb, "to find" / "to discover"
+te-form – used for sequential actions or linking, here implying a continuous or resultant state
+anata wo mitsukete - "finding you"
+```
+
+</details>
+
 <hr>
 
 <details><summary>Japanese lyrics for quick reference</summary>
@@ -201,10 +293,11 @@ Well now who could it be that lives inside of me?
 I'm broken, lying helpless, shattered, surrounded by the world
 And yet, you're smiling bright, completely blind to life
 
-My ruptured lungs, they were left this way, for once, I'm out of breath
-The truth I seek never felt so bleak but I maintain my depth
+My ruptured lungs, they were left this way
+For once, I'm out of breath
+The truth I seek never felt so bleak
+But I maintain my depth, freeze
 
-Freeze
 I'm breakable, unbreakable, I'm shaking yet unshakable
 Until the day that you find me
 
