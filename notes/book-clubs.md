@@ -2,14 +2,16 @@
 id: book-clubs
 title: Book Clubs
 desc: ''
-updated: 1728153848879
+updated: 1743333548316
 created: 1706541112185
 ---
 
 ## Currently reading:
 
-[[book-clubs.ostep]]
+TBD
 
 ## Previous book clubs:
+
+[[book-clubs.ostep]]
 
 [[book-clubs.postgresql-14-internals]]

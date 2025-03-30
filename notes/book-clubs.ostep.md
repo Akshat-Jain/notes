@@ -2,9 +2,13 @@
 id: ostep
 title: 'Operating Systems: Three Easy Pieces'
 desc: ''
-updated: 1740294062096
+updated: 1743333520030
 created: 1706541552953
 ---
+
+## Update: March 30th, 2025
+
+The book club is now over. If you'd like to get access to the weekly discussion emails, feel free to fill out the Google form. I'll check it periodically and send out Google Group invites. You would have access to all the past discussion emails on Google Groups.
 
 ![](/assets/images/ostep.png)
 
