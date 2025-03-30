@@ -2,7 +2,7 @@
 id: books
 title: Books
 desc: ''
-updated: 1736068916017
+updated: 1743333880480
 created: 1706531624211
 ---
 
@@ -25,18 +25,20 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 ## Currently Reading
 
-- **Operating Systems: Three Easy Pieces** (by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau)  
-  *Reading it as part of a [[book club|book-clubs.ostep]], absolutely loving it so far!*
-
 - **Crafting Interpreters** (by Robert Nystrom)  
   *Started reading it to get more familiarity with parsing, semantics, ASTs, etc - along with corresponding low-level implementation. Great read so far.*  
-
-- **Mind Master** (by Viswanathan Anand)  
-  *As a chess fan, I wanted to read this book by Vishy Sir himself. Have read a couple of chapters so far, it's been an okay read. Probably won't read it to the end, but time will tell.*
 
 ---
 
 ## Books Read (or Dropped)
+
+### 2025
+
+- **Operating Systems: Three Easy Pieces** (by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau)  
+  *Read this as part of a [[book club|book-clubs.ostep]]. It was an absolutely fantastic read. Highly recommended!*
+
+- **Mind Master** (by Viswanathan Anand) (Dropped)  
+  *As a chess fan, I wanted to read this book by Vishy Sir himself. But unfortunately, I got bored within the first couple of chapters, and hence gave up on it.*
 
 ### 2024
 
