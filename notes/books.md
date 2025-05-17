@@ -28,6 +28,9 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 - **Crafting Interpreters** (by Robert Nystrom)  
   *Started reading it to get more familiarity with parsing, semantics, ASTs, etc - along with corresponding low-level implementation. Great read so far.*  
 
+- **Einstein: Genius** (by Walter Isaacson)  
+  *Have read around 50 pages so far, it's been a decent read. I expect it to get more interesting in the later chapters, which I'm looking forward to.*  
+
 ---
 
 ## Books Read (or Dropped)
