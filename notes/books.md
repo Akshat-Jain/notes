@@ -34,6 +34,9 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 ### 2025
 
+- **The Book of Clarity** (by Paras Chopra)  
+  *It was a good concise read overall. Most of it just reinforces what you probably already know, but there were a few topics which did seem intriguing and opened a new perspective for me. I didn't like most of the illustrations though - they were distracting and difficult to understand (random x-y graphs without x-y labels, confusing diagrams, etc), and seemed forced just for the sake of increasing the number of diagrams in the book.*
+
 - **Operating Systems: Three Easy Pieces** (by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau)  
   *Read this as part of a [[book club|book-clubs.ostep]]. It was an absolutely fantastic read. Highly recommended!*
 
