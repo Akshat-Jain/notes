@@ -25,6 +25,9 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 ## Currently Reading
 
+- **Hit Refresh** (by Greg Shaw, Jill Tracie Nichols, & Satya Nadella)  
+  *Have read it halfway. It's about how Satya transformed Microsoft's culture. It's been a below-average read. I personally hate and find it hypocritical that the book keeps talking about empathy in every alternate paragraph, but then we keep reading news about another round of layoffs in Microsoft.*
+
 - **Crafting Interpreters** (by Robert Nystrom)  
   *Started reading it to get more familiarity with parsing, semantics, ASTs, etc - along with corresponding low-level implementation. Great read so far.*  
 
