@@ -25,7 +25,7 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 ## Currently Reading
 
-- **Hit Refresh** (by Greg Shaw, Jill Tracie Nichols, & Satya Nadella)  
+- **Hit Refresh** (by Greg Shaw, Jill Tracie Nichols & Satya Nadella)  
   *Have read it halfway. It's about how Satya transformed Microsoft's culture. It's been a below-average read. I personally hate and find it hypocritical that the book keeps talking about empathy in every alternate paragraph, but then we keep reading news about another round of layoffs in Microsoft.*
 
 - **Crafting Interpreters** (by Robert Nystrom)  
@@ -39,6 +39,9 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 ## Books Read (or Dropped)
 
 ### 2025
+
+- **The Accidental CTO** (by Subhash Choudhary)  
+  *This book by Subhash Choudhary, the Co-Founder & CTO of Dukaan, was an amazing read, taking us through the journey of Dukaan from minimal 512 MB DigitalOcean Droplet to a complex yet elegant global edge network that could meet their scaling needs. Each chapter is an interesting iterative evolution and a great informal practical lesson in system design, taking us through some actual problem they encountered in Dukaan's operations, and how they solved that problem. I would highly recommend it, not from a system design interview prep point of view, but rather from a practical system design journey perspective! And oh, it's available completely for free [here](https://github.com/subhashchy/The-Accidental-CTO).*
 
 - **The Book of Clarity** (by Paras Chopra)  
   *It was a good concise read overall. Most of it just reinforces what you probably already know, but there were a few topics which did seem intriguing and opened a new perspective for me. I didn't like most of the illustrations though - they were distracting and difficult to understand (random x-y graphs without x-y labels, confusing diagrams, etc), and seemed forced just for the sake of increasing the number of diagrams in the book.*
