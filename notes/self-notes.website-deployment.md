@@ -2,7 +2,7 @@
 id: domains-and-subdomains
 title: How my domain and subdomains work
 desc: ''
-updated: 1761498985644
+updated: 1761499624924
 created: 1761460997313
 ---
 
@@ -71,7 +71,7 @@ Apart from being the domain registrar, I use it for 2 things:
                                │
                                │
                                ↓
-                    ┌──────────┬─────────────┐
+                    ┌────────────────────────┐
                     │    NAMESERVERS         │
                     │    dns1.p07.nsone.net  │
                     │    dns2.p07.nsone.net  │
