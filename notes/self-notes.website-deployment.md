@@ -2,7 +2,7 @@
 id: domains-and-subdomains
 title: How my domain and subdomains work
 desc: ''
-updated: 1761497421195
+updated: 1761498985644
 created: 1761460997313
 ---
 
@@ -61,7 +61,7 @@ Apart from being the domain registrar, I use it for 2 things:
 
 ### The Complete Deployment Architecture
 
-```
+<pre style="font-family: monospace, 'SF Mono', 'Monaco', 'Consolas', 'Courier New', 'Inconsolata', 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro'; line-height: 1.5;">
                     ┌──────────────────────┐
                     │   SQUARESPACE        │
                     │   (Registrar)        │
@@ -86,12 +86,12 @@ Apart from being the domain registrar, I use it for 2 things:
    ┌──────────────────────┐         ┌───────────────────────────┐
    │   NETLIFY DNS        │         │   SQUARESPACE FORWARDING  │
    │   (Authoritative)    │         │      (HTTP redirects)     │
-   │                      │         │ • chess.akjn.dev          │  
+   │                      │         │ • chess.akjn.dev          │
    │ • notes.akjn.dev     │         │ • book-club.akjn.dev      │
    │ • chess.akjn.dev     │         └───────────────────────────┘
-   │ • akjn.dev           │         
-   └──────────┬───────────┘         
-              │                     
+   │ • akjn.dev           │
+   └──────────┬───────────┘
+              │
               ↓
    ┌───────────────────────┐
    │   NETLIFY HOSTING     │
@@ -99,7 +99,7 @@ Apart from being the domain registrar, I use it for 2 things:
    │                       │
    │ Push → Build → Deploy │
    └───────────────────────┘
-```
+</pre>
 
 ### The Critical Delegation: Nameservers
 
