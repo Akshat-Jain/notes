@@ -2,7 +2,7 @@
 id: domains-and-subdomains
 title: How my domain and subdomains work
 desc: ''
-updated: 1761499624924
+updated: 1761500236201
 created: 1761460997313
 ---
 
@@ -61,45 +61,19 @@ Apart from being the domain registrar, I use it for 2 things:
 
 ### The Complete Deployment Architecture
 
-<pre style="font-family: monospace, 'SF Mono', 'Monaco', 'Consolas', 'Courier New', 'Inconsolata', 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro'; line-height: 1.5;">
-                    ┌──────────────────────┐
-                    │   SQUARESPACE        │
-                    │   (Registrar)        │
-                    │                      │
-                    │ • Domain: akjn.dev   │
-                    └──────────┬───────────┘
-                               │
-                               │
-                               ↓
-                    ┌────────────────────────┐
-                    │    NAMESERVERS         │
-                    │    dns1.p07.nsone.net  │
-                    │    dns2.p07.nsone.net  │
-                    │    dns3.p07.nsone.net  │
-                    │    dns4.p07.nsone.net  │
-                    │                        │
-                    │  (Netlify nameservers) │
-                    └──────────┬─────────────┘
-                               │
-              ┌────────────────┴────────────────┐
-              ↓                                 ↓
-   ┌──────────────────────┐         ┌───────────────────────────┐
-   │   NETLIFY DNS        │         │   SQUARESPACE FORWARDING  │
-   │   (Authoritative)    │         │      (HTTP redirects)     │
-   │                      │         │ • chess.akjn.dev          │
-   │ • notes.akjn.dev     │         │ • book-club.akjn.dev      │
-   │ • chess.akjn.dev     │         └───────────────────────────┘
-   │ • akjn.dev           │
-   └──────────┬───────────┘
-              │
-              ↓
-   ┌───────────────────────┐
-   │   NETLIFY HOSTING     │
-   │   + GitHub            │
-   │                       │
-   │ Push → Build → Deploy │
-   └───────────────────────┘
-</pre>
+```mermaid
+graph TD
+    A["**Squarespace (Registrar)**<br/>Domain: akjn.dev"]
+    B["**Netlify Nameservers**<br/>dns1.p07.nsone.net<br/>dns2.p07.nsone.net<br/>dns3.p07.nsone.net<br/>dns4.p07.nsone.net<br/>"]
+    C["**Netlify DNS<br/>(Authoritative)**<br/>notes.akjn.dev<br/>chess.akjn.dev<br/>akjn.dev"]
+    D["**Squarespace Forwarding (HTTP redirects)**<br/>chess.akjn.dev<br/>book-club.akjn.dev"]
+    E["**Netlify Hosting + GitHub**<br/>Push → Build → Deploy"]
+
+    A --> B
+    B --> C
+    B --> D
+    C --> E
+```
 
 ### The Critical Delegation: Nameservers
 
