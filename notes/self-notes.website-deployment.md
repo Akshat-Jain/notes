@@ -2,7 +2,7 @@
 id: domains-and-subdomains
 title: How my domain and subdomains work
 desc: ''
-updated: 1761492511161
+updated: 1761493304862
 created: 1761460997313
 ---
 
@@ -296,6 +296,8 @@ The root domain `akjn.dev` (and `www.akjn.dev`) use a special **NETLIFY record t
 | ![](/assets/images/netlify-NETLIFY-records.png) | 
 |:--:| 
 | *NETLIFY records in Netlify's DNS records* |
+
+<br>
 
 **Why NETLIFY record type?** DNS standards don't allow CNAME records on root domains (like `akjn.dev`). The NETLIFY record is Netlify's solution - it acts like a CNAME but actually creates A records behind the scenes.
 
