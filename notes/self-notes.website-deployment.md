@@ -2,7 +2,7 @@
 id: domains-and-subdomains
 title: How my domain and subdomains work
 desc: ''
-updated: 1761493304862
+updated: 1761497421195
 created: 1761460997313
 ---
 
@@ -71,19 +71,19 @@ Apart from being the domain registrar, I use it for 2 things:
                                │
                                │
                                ↓
-                    ┌──────────────────────--┐
+                    ┌──────────┬─────────────┐
                     │    NAMESERVERS         │
                     │    dns1.p07.nsone.net  │
                     │    dns2.p07.nsone.net  │
                     │    dns3.p07.nsone.net  │
                     │    dns4.p07.nsone.net  │
                     │                        │
-                    │ ☝️ Netlify nameservers │
-                    └──────────┬───────────--┘
+                    │  (Netlify nameservers) │
+                    └──────────┬─────────────┘
                                │
               ┌────────────────┴────────────────┐
               ↓                                 ↓
-   ┌──────────────────────┐         ┌──────────────────────-----┐
+   ┌──────────────────────┐         ┌───────────────────────────┐
    │   NETLIFY DNS        │         │   SQUARESPACE FORWARDING  │
    │   (Authoritative)    │         │      (HTTP redirects)     │
    │                      │         │ • chess.akjn.dev          │  
@@ -93,12 +93,12 @@ Apart from being the domain registrar, I use it for 2 things:
    └──────────┬───────────┘         
               │                     
               ↓
-   ┌─────────────────────-─┐
+   ┌───────────────────────┐
    │   NETLIFY HOSTING     │
    │   + GitHub            │
    │                       │
    │ Push → Build → Deploy │
-   └──────────────────────-┘
+   └───────────────────────┘
 ```
 
 ### The Critical Delegation: Nameservers
