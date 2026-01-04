@@ -2,7 +2,7 @@
 id: trips-2025-dubai
 title: Dubai
 desc: ''
-updated: 1767510182766
+updated: 1767512756728
 created: 1767413734908
 ---
 
@@ -124,16 +124,70 @@ Then I had booked desert safari for the evening and had the pickup from my hotel
 
 ### Day 7 (23rd December, 2025)
 
-todo
+I had booked a helicopter ride (25 Minute Sharing Flight + Panoramic Seats package) from https://helicopterflight.ae/ for the 4:25 PM time slot. It cost 1649 AED, which is super expensive but I was too excited to sit in a helicopter for the first time in my life.
+
+So I did my lunch at some random cafe in JLT Cluster L itself, then went to the helicopter ride place, that is, [Falcon Helitours](https://www.google.com/maps?q=Falcon+Heli+Tours+-+Falcon+Heli+Tours+White+Beach+Parking+Atlantis+Hotel,+Palm+-+Jumeirah+-+Dubai&ftid=0x3e5f155bb94aaeb9:0xd4cd1d8b6f593c57&hl=en-AE&gl=ae&entry=gps&shorturl=1). While I had booked the panoramic seats, I learned that seats were going to be assigned based on the weight of the passengers, so I guess panoramic seats just guaranteed that I'd get one of the front row seats.
+
+Anyway, I got a corner window seat in the front row which is what I wanted to get in the first place. The helicopter ride was nice, although I would say that it's certainly not worth it if you've been in a helicopter before. But for someone who hadn't been in a helicopter until then, it was worth it.
+
+I paid 315 AED for all digital photos at Falcon Tours for the helicopter ride.
+
+Went to nearby Starbucks, definitely one of the nice-ambience ones I've been to so far.
+
+On exiting that area, I saw people walking along the shoreline. It was sunset so I also wanted to just go there and walk in the peace. Went to walk along the shoreline at Palm Jumeirah Boardwalk. It was AMAZING. It was the best thing I did in the whole trip which is a crazy thing to say considering I did so many other crazy good things. But hey you can be the judge:
+
+![](/assets/images/dubai/palm-jumeirah-boardwalk.png){width: 600px}
+
+I then had plans to go to Global Village with my friend, even booked a ride, but while booking the tickets for Global Village, it said that it is apparently reserved for couples and family etc etc on Tuesdays, so we ended up canceling the plan and I re-routed the Uber to home instead. We just ended up going to Dubai Marina area with for dinner and roaming around.
 
 ### Day 8 (24th December, 2025)
 
-todo
+I had booked Platinum ticket for At The Top, Burj Khalifa (cost 769 AED) for 5 PM, along with a VR experience add-on for 45 AED.
+
+The wait queue was 45 minutes despite the fast track access via the platinum ticket. The normal-queue waiting must've been atleast 4-5 hours which is just insane. The throughput bottleneck is the presence of just 3 elevators for the entire crowd which is simply not enough.
+
+Anyway, I took the lift to floor 125, then took another lift to floor 154. Floor 154 and 153 had glass-wall balconies, so I came down to floor 152 which had an open-air balcony. Got some photos clicked, enjoyed the view (as it was sunset time), just looked down at those "tiny" 70-80 floor buildings lol.
+
+Went back inside, went to eat something at the lounge on those 3 floors. Then went back outside when it was dark, and stayed there for a couple of hours. Just put on my headphones and listened to music while gazing at the view from that open-air balcony. I also wanted to leave late so as to avoid long queues while exiting.
+
+I also ended up getting 1 picture in album + all digital photos for 426 AED. It was expensive but meh what to do.
+
+Anyway I decided to leave at around 9 PM, as I also wanted to just check out the floors 148, 125 and 124 on my way down.
+
+Came to floor 148, it was just so crowded and useless.
+
+Came to floor 125, my VR experience thing was supposed to be on this floor, but the VR booth just didn't work for me or anyone else. Wasted 30 minutes chasing staff but eventually gave up. Came to floor 124. Both 124th and 125th floors were also fully crowded and were useless so I exited almost immediately. Luckily didn't have to wait too long to exit, the fast track queue for exit took only 10 minutes to exit.
+
+All in all, I would recommend going for the platinum ticket as the only worthy thing was the open-air balcony on floor 152. Floors 153 and 154 were okay, had calm experience there. But floors 148, 125 and 124 were just plain useless. Just buy the platinum ticket, avoid super long queues, and embrace the open air at floor 152.
+
+A cab driver had told me a few days back "Burj Khalifa is meh, Burj Al Arab is the real deal". I didn't understand him back then, but I could understand those words after having experienced both. Burj Khalifa was not a premium experience. The long queues, the too-much-crowd, the too-much-mismanagement, the small balconies, the boring elevators, etc etc in Burj Khalifa was just bad.
 
 ### Day 9 (25th December, 2025)
 
-todo
+Went to DMCC metro station, got a gold Nol card just to experience the gold class cabins. It also cost 25 AED, giving 19 AED as balance.
+
+Went from DMCC metro station to Creek station (had to change lines from red to green line at BurJuman metro station). Cost 10 AED in gold Nol card.
+
+It took 1.5 hours or so in metro which was much more than I had anticipated, so sunset was already over by the time I reached Creek station and booked a cab to reach Dubai Creek Harbour. Anyway, I just walked around the harbour for an hour or so, and took a cab back to home. Probably could've planned this better.
 
 ### Day 10 (26th December, 2025)
 
-todo
+This was the last day. My friend had his flight to London early morning, so he left. I spent the rest of the day relaxing at home, playing Forza, listening to music, sleeping. I left for airport at 11 PM, reached at 11:30 PM, and all the process was done within 15 minutes, so just sat in the lounge for a few hours.
+
+### Random other notes
+
+Overall it was a fantastic trip. The entire trip cost me 3.6L INR, which is a lot, but I also went for the VIP tickets in everything, took cabs more often than not instead of metro, did shopping, took photo albums, etc etc. If I had to pay for accommodation, it would've cost me around 4L INR or so for a 10 day trip.
+
+I realised towards the end of the trip that Careem app had a Hala Taxi option, which was the standard, affordable public taxi service with the coloured roofs. I should've been using that instead of Uber from the beginning of the trip lol. It was costing around 15-20% lesser compared to Uber.
+
+I also could've used the Emirates boarding pass for more discounts, but that required me to book the xyz stuff in-person instead of online.
+
+The entire set of apps that I downloaded were the following:
+![](/assets/images/dubai/apps.png){width: 600px}
+
+Out of these, I used the following primarily:
+1. Careem for booking rides and ordering food.
+2. Mapway for checking Dubai metro related information.
+3. RTA Dubai for checking Nol card balance.
+
+Oh also, WhatsApp calls don't work in Dubai, so I was using Google Meet for calling anyone.
