@@ -2,7 +2,7 @@
 id: trips-2025-dubai
 title: Dubai
 desc: ''
-updated: 1767512756728
+updated: 1767513823514
 created: 1767413734908
 ---
 
@@ -69,7 +69,7 @@ Came home, then went to Dubai Marina in a Lexus with my friend for casual stroll
 
 ### Day 2 (18th December, 2025)
 
-Took ab Uber Lux to DMCC metro station for 44 AED, an Audi came. I topped up my Nol card with 30 AED.
+Took an Uber Lux to DMCC metro station for 44 AED, an Audi came. I topped up my Nol card with 30 AED.
 
 Went to Mall of the Emirates to watch the Avatar movie. Movie itself was meh, but the IMAX experience was crazy good.
 
