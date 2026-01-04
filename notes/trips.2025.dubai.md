@@ -2,7 +2,7 @@
 id: trips-2025-dubai
 title: Dubai
 desc: ''
-updated: 1767464026210
+updated: 1767510182766
 created: 1767413734908
 ---
 
@@ -93,15 +93,34 @@ Went to Dubai Frame after that. Really enjoyed Dubai Frame. The ticket was also 
 
 ### Day 4 (20th December, 2025)
 
-todo
+Went to Abu Dhabi (in a Lexus) with my friend. Cost around 300 AED one-way. I went to Ferrari World, my friend didn't like rides so he went shopping in Yas Mall.
+
+Ferrari World was nice.
+1. Sat in Formula Rossa, world's fastest roller-coaster. In the first attempt, all of us were asked to get out for a routine check, and then we sat again, and damn it was FASTTTT. The initial acceleration was CRAZY FAST. It was 175 AED for one digital photo and album, but I didn't take it as the photo itself wasn't good.
+2. Did the F1 simulator. It was a 7 minutes thing, took 3-4 minutes just to get used to it. I came 2nd in the race out of the 3 people doing the F1 simulator at that time.
+3. Then I did Ferrari World Roof Walk in a group of 8 people. That was really awesome! Digital photos were 315 AED, I ended up taking the physical album (which had 4 photos) + all digital photos for 420 AED. The album itself was supreme quality.
+
+Yas Marina Circuit tickets seemed sold out for the passenger experience thing. Cycling the Grand Prix track also seemed to be Monday and Wednesday only. Hence I ended up skipping visiting the track, I should've planned better. But eh there's always next time. There's plenty more things in Abu Dhabi that I should've kept another day for but I didn't, left those also for next time.
 
 ### Day 5 (21st December, 2025)
 
-todo
+Me and my friend went to The View At the Palm, we had booked tickets for 11 AM for 185 AED each (these were the VIP tickets, the normal ones cost 105 AED I think). Overall, it was a nice experience, although I'd definitely recommend going either earlier in the morning or around sunset, as it was too sunny at the time we went.
+
+Post that, we came home and rested for a bit. Then I had plans to do the Sky Views Edge Walk thing. It cost 500 AED, I had booked it for 5 PM. Sky Views Edge Walk was AWESOME! Completely unobstructed views to Downtown and Burj Khalifa etc etc. It also gave me one of my favourite pictures from the trip:
+
+![](/assets/images/dubai/sky-views-edge-walk.jpg){width: 600px}
+
+I had thought I'd also lean back on the edge (like you're supposed to do), but I just couldn't do that lol. It was too scary so I chickened out of it. The 2 other people in my group were both Russians, and they both did everything lol, just built different. I wish they had made us do some sitting practice etc with the harness inside, instead of directly asking us to do xyz outside on the edge, as I think I would've been able to lean back on the edge if I had done a little bit of practice before and developed trust on the harness lol. But anyway, still an extremely worthy experience nonetheless.
+
+For the Sky Views Edge Walk, album + digital photo package was 150 AED per photo. All digital photos package was 660 AED. I took the 150 AED option for 3 photos.
+
+There was a direct way to Dubai Mall from Sky Views building from inside the building only (because, duh, ofcourse). Re-convened with my friend at some cafe in Dubai Mall. We went to see Dubai Fountain's 8 PM and 8:30 PM shows. Then I Bought chocolates from Al Nassma shop in Souk al Bahar (in the waterfront area itself) for 838 AED (sighs only, was ordered to bring back chocolates). Then we had a nice dinner in Souk al Bahar itself.
 
 ### Day 6 (22nd December, 2025)
 
-todo
+I had booked Inside Burj Al Arab Tour for 11 AM. The tour was nice. Took physical album of 2 photos + all digital photos for 300 AED. Bought 2 tshirts and some postcards etc for 351 AED.
+
+Then I had booked desert safari for the evening and had the pickup from my hotel at 3 PM. The desert safari itself was nice, but I didn't really like rest of the activities (dinner etc), mostly because the rest of the group was Turkish and Uzbek people and I felt isolated despite attempts of trying to socialise with them. Apparently Turkish and Uzbek languages are very similar so they could interact freely. Anyway, the whole desert safari cost just 100 AED so it was still worth it.
 
 ### Day 7 (23rd December, 2025)
 
