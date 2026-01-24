@@ -2,7 +2,7 @@
 id: trips-2025-dubai
 title: Dubai
 desc: ''
-updated: 1767513823514
+updated: 1769232708864
 created: 1767413734908
 ---
 
@@ -191,3 +191,10 @@ Out of these, I used the following primarily:
 3. RTA Dubai for checking Nol card balance.
 
 Oh also, WhatsApp calls don't work in Dubai, so I was using Google Meet for calling anyone.
+
+### Random song recommendations
+
+I love listening to songs and some of the highlight songs of this trip for me were:
+1. Mazaak by Anuv Jain: https://www.youtube.com/watch?v=zx0YGEi32r0. I listened to this song almost every day. I listened to this song on the 152nd floor balcony of Burj Khalifa, I listened to it while walking at the Palm Jumeirah Boardwalk, and so on. Lovely song!
+2. Last Christmas by Taylor Swift: https://www.youtube.com/watch?v=T4pTMZuAux4. Since it was Christmas time during my trip, I was introduced to this song at random places (cafes, malls, you name it). Good song!
+3. The Lights of China: https://www.youtube.com/watch?v=r5M7fPSWz8A. I got introduced to it at my first time watching the Dubai fountain show. What a crazy good song!
