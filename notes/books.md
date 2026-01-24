@@ -2,7 +2,7 @@
 id: books
 title: Books
 desc: ''
-updated: 1743333880480
+updated: 1769233050821
 created: 1706531624211
 ---
 
@@ -25,8 +25,8 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 
 ## Currently Reading
 
-- **Hit Refresh** (by Greg Shaw, Jill Tracie Nichols & Satya Nadella)  
-  *Have read it halfway. It's about how Satya transformed Microsoft's culture. It's been a below-average read. I personally hate and find it hypocritical that the book keeps talking about empathy in every alternate paragraph, but then we keep reading news about another round of layoffs in Microsoft.*
+- **The Sheikh CEO** (by Dr. Yasar Jarrar)  
+  *I have always been fascinated with Dubai's rapid transformation in the past few decades. On my Dubai trip, I got a bit more familiarity with the upper echelon of people behind the same. One of them is His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE, Ruler of Dubai. I was just thoroughly inspired at witnessing his vision and what he has been able to do for Dubai, as well as the amount of love the people have for him. So I wanted to read some of his books, starting with this one. I've read around 30% of it so far, it's been a good read. Will most likely finish this one and pick up some other books on him. Very inspiring!*  
 
 - **Crafting Interpreters** (by Robert Nystrom)  
   *Started reading it to get more familiarity with parsing, semantics, ASTs, etc - along with corresponding low-level implementation. Great read so far.*  
@@ -39,6 +39,9 @@ If I had to recommend only 5 books from the below list, I'd recommend these:
 ## Books Read (or Dropped)
 
 ### 2025
+
+- **Hit Refresh** (by Greg Shaw, Jill Tracie Nichols & Satya Nadella) (Dropped)  
+  *I read it halfway and then dropped it. It's about how Satya transformed Microsoft's culture. It was a below-average read. I personally hated and found it annoyingly hypocritical that the book keeps talking about empathy in every alternate paragraph, but then we keep reading news about another round of layoffs in Microsoft.*
 
 - **The Accidental CTO** (by Subhash Choudhary)  
   *This book by Subhash Choudhary, the Co-Founder & CTO of Dukaan, was an amazing read, taking us through the journey of Dukaan from minimal 512 MB DigitalOcean Droplet to a complex yet elegant global edge network that could meet their scaling needs. Each chapter is an interesting iterative evolution and a great informal practical lesson in system design, taking us through some actual problem they encountered in Dukaan's operations, and how they solved that problem. I would highly recommend it, not from a system design interview prep point of view, but rather from a practical system design journey perspective! And oh, it's available completely for free [here](https://github.com/subhashchy/The-Accidental-CTO).*
