@@ -182,6 +182,8 @@ I realised towards the end of the trip that Careem app had a Hala Taxi option, w
 
 I also could've used the Emirates boarding pass for more discounts, but that required me to book the xyz stuff in-person instead of online.
 
+I was also surprised/amazed at how quickly Uber cabs come after booking them. They came within a couple of minutes of booking. The personal best must've been like 15 seconds, just insane!
+
 The entire set of apps that I downloaded were the following:
 ![](/assets/images/dubai/apps.png){width: 600px}
 
