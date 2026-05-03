@@ -2,7 +2,7 @@
 id: trips-2026-malaysia-thailand
 title: Malaysia and Thailand
 desc: ''
-updated: 1777824047924
+updated: 1777833834643
 created: 1777616988798
 ---
 
@@ -18,12 +18,6 @@ So my overall trip ended up being these 7 flights:
 - 29th April: Pune to Kishangarh
 
 Anyway, this page is gonna focus only on the Malaysia and Thailand parts of the above trip.
-
-### FTI TTP
-
-I had filled in the form for FTI TTP sometime mid-March. I submitted the biometrics for the same in Bangalore airport on 2nd April. It was a seamless process. I got a mail on 6th April that I have been successfully enrolled in FTI TTP, and that I can use it the next time I leave/enter India.
-
-So I tried FTI TTP on 12th April when entering India. I had to scan my boarding pass and my passport, and then look at the camera and scan my index finger of right hand. Was super quick!
 
 ### How much cash I took
 
@@ -69,10 +63,10 @@ Went to Suria KLCC mall.
 3. Came to 7-Eleven inside Petronas Twin Towers. Bought a protein drink and coffee latte, was good.
 4. Then booked a Grab from KLCC Ramlee exit of the Suria Mall to KL Tower.
 5. Came to KL Tower.
-    1. Tower walk is permanently closed.
-    2. Sky terrace + Observation deck tickets are for 180 MYR per person (in a combo, 220 MYR if bought separately). And we can buy them when we come. Timings were till 10 PM, but last entry is at 9 PM. Can be closed if it's raining or lightning.
-    3. Glass box is for 10 MYR per person and has to be bought adhoc when you're at the observation deck. Glass box entry is also till 9 PM.
-    4. We decided to come back to KL Tower later in the evening. For now, we just had something in Luckin Coffee inside KL Tower (we had coconut latte and souffle latte, cost around 33 MYR for 2 people). Luckin Coffee was great!
+    1. Tower walk has been permanently closed.
+    2. Sky terrace + Observation deck tickets are for 180 MYR per person (in a combo, 220 MYR if bought separately). And we could buy them when we came. Timings were till 10 PM, but last entry was at 9 PM. Can be closed if it's raining or lightning.
+    3. Glass box was for 10 MYR per person and had to be bought adhoc when you're at the observation deck. Glass box entry was also till 9 PM.
+    4. We decided to come back to KL Tower later in the evening. We ended up having something in Luckin Coffee inside KL Tower (we had coconut latte and souffle latte, cost around 33 MYR for 2 people). Luckin Coffee was great!
 6. Came from KL Tower to Eyeslab optical shop: https://maps.app.goo.gl/uEmRxdoX5gDQN2bVA. It's in Sungei Wang Plaza. Took frame and lens there. Frame was 99 MYR, lens was 320 MYR.
 7. Went to have lunch at some Indian restaurant in Bukit Bintang area itself.
 8. Went back after an hour to collect the spectacles.
@@ -294,7 +288,17 @@ Sawasdee versus Sawatdee:
 
 > Both Sawasdee and Sawatdee are acceptable Romanized spellings of the Thai greeting สวัสดี, which means "hello" or "goodbye". Sawatdee is often considered closer to the actual pronunciation (sa-wat-dee), while Sawasdee is a very common alternative spelling used in tourism.
 
+### FTI TTP
+
+I had filled in the form for FTI TTP sometime mid-March. I submitted the biometrics for the same in Bangalore airport on 2nd April. It was a seamless process. I got a mail on 6th April that I have been successfully enrolled in FTI TTP, and that I can use it the next time I leave/enter India.
+
+So I tried FTI TTP on 12th April when entering India. I had to scan my boarding pass and my passport, and then look at the camera and scan my index finger of right hand. Was super quick!
+
 ### Random other notes
+
+Overall it was a good trip. The entire trip cost me around 1.5L INR.
+
+Dumping some more random notes here:
 
 1. Waze isn't good compared to Google Maps.
 2. Grab ETA is messed up. It doesn't update traffic in realtime. It might be using Waze behind the scenes.
