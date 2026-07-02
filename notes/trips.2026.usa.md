@@ -2,7 +2,7 @@
 id: trips-2026-usa
 title: USA
 desc: ''
-updated: 1783019720814
+updated: 1783019882626
 created: 1783001855871
 ---
 
@@ -306,3 +306,4 @@ I used these primarily:
 
 - I probably spent around 1 lakh INR on the whole trip.
 - Uber prices were insane, 20-30 USD :(
+- Throughout the trip, I had the 20% TCS crap looming over my head. Any transaction I make would've incurred a 20% TCS, so I was asking people to pay for me or give me cash whenever possible.
