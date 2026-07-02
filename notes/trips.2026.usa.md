@@ -2,7 +2,7 @@
 id: trips-2026-usa
 title: USA
 desc: ''
-updated: 1783019882626
+updated: 1783019900568
 created: 1783001855871
 ---
 
@@ -22,7 +22,7 @@ Oh btw, I had carried 300 USD in cash.
 
 **Delhi to Tokyo flight:**
 1. I was with 3 colleagues.
-2. Had a funny moment at Encalm lounge in Terminal 3 when trying to get one of the colleagues the lounge access. I couldn't remember my HDFC MPIN, tried resetting it, and all 3 attempts at new MPIN told me that "MPIN cannot be the same as your last 3 MPINs" lmao.
+2. Had a funny moment at Encalm lounge in Terminal 3 when trying to get lounge access for one of the colleagues. I couldn't remember my HDFC MPIN, tried resetting it, and all 3 attempts at new MPIN told me that "MPIN cannot be the same as your last 3 MPINs" lmao.
 3. Bought a neck pillow out of peer pressure for INR 2800 at the airport right before boarding the flight.
 4. The airplane was Boeing 787-8, had a huge wingspan. Leg room seemed lesser than 33 inches. The seats were cushiony though.
 5. Was able to sleep, the neck pillow was worth it (?).
@@ -40,7 +40,7 @@ Both flights had free Wi-Fi for 1 hour each. Had to connect to Japan Airlines Wi
 
 **SF to Tokyo flight:** 
 1. Same as before. I was down with cold though which sucked. When the flight was descending for landing, I had eye pain, likely sinus pain.
-2. Had a layover for 6 hours in Tokyo. First thing I did was try to find chewing gum as Google suggested chewing gums are supposed to help with sinus issues during pressure changes in the airplane during ascent or descent.
+2. Had a layover for 6 hours in Tokyo. First thing I did was try to find chewing gum as Google suggested it is supposed to help with sinus issues during pressure changes in the airplane during ascent or descent.
 
 **Tokyo to Delhi flight:**
 1. Same as before. Reached Delhi early morning on 17th June.
@@ -55,7 +55,7 @@ Anyway, we took an Uber XXL to the accommodation provided by the company: [Hyatt
 
 Hyatt took a 400 USD security deposit hold on my credit card.
 
-The immediate things to buy was a jacket lmao, because I had gone trusting Google's "15 degrees, feels like 15 degrees" forecast for SF. Utter lie.
+The immediate thing to buy was a jacket lmao, because I had gone trusting Google's "15 degrees, feels like 15 degrees" forecast for SF. Utter lie.
 
 Anyway, we went to the ferry area for lunch and I ate some random sandwich. Then I went to Sausalito Boardwalk via Uber.
 
@@ -79,7 +79,7 @@ Random notes from the day:
 
 Went to Lombard Street in an Uber, which is called the "crookedest street in the world". We drove down, which was fine, and then I walked back up through the stairs.
 
-Then I ordered a Waymo to go to Starbucks near Fisherman's Wharf. I ordered it from one end of Lombard Street, it came to me, went past me, and went into the Lombard Street 🤣. Then it might've detected that oh Akshat is behind me, so then it tried taking a U-turn INSIDE THE LOMBARD STREET 🤣, struggled (while I was ofcourse making a video of it struggling), gave up, and went and sat on the other end of Lombard Street.
+Then I ordered a Waymo to go to Starbucks near Fisherman's Wharf. I ordered it from one end of Lombard Street, it came to me, went past me, and went into Lombard Street 🤣. Then it might've detected that oh Akshat is behind me, so then it tried taking a U-turn INSIDE THE LOMBARD STREET 🤣, struggled (while I was of course making a video of it struggling), gave up, and went and sat on the other end of Lombard Street.
 
 A "traditional/older" cable car was approaching around then, so I ended up taking the cable car from Lombard Street to Powell and Hyde Street I think, for 9 USD through MuniMobile. The cable car was super fun!
 
@@ -153,10 +153,10 @@ From there, I went to Golden Gate Bridge. I walked and ran across the Golden Gat
 
 **Sausalito story time:**
 1. I reached the other end by 8:45 PM, and lmao I didn't know that they "had gates", let alone that they close those gates. Anyway, the police guy there was like you can't go to the other side, it's closed. I couldn't take a U-turn and walk back to SF side of the bridge as that was closed as well by then. But surprisingly, they open the gate for cyclists, so while I was panicking for 15 minutes, a cyclist came by and they opened the gate for him, so I also went past the gate.
-2. So now I'm on the Sausalito end of the bridge. Now I tried doing Uber but they kept cancelling on me, likely because they'd have to take a complete U-turn of the Golden Gate Bridge to pick me up, because ofcourse I'm an idiot who ran across the bridge on the right side of the bridge. And there was no way for me to cross the road, since it was like a highway road with cars speeding at 100+ kmph if not more.
-3. Time is like 9:30ish already, darkness has started to set in. I walked towards Sausalito in hopes of finding a way to cross the road, I ran, for a while. But it was complete darkness so I decided to get back to the "closed" gate since atleast there was light there, as I wasn't sure of safety in the darkness in a forest region (animals etc). So I came back to the closed gate. On the way back, a police van from the other side of the road threw a spotlight at me and shouted "Don't run on the main road, be on the sideroad". I immediately acted upon it but was shit scared lmao.
+2. So now I'm on the Sausalito end of the bridge. Now I tried doing Uber but they kept cancelling on me, likely because they'd have to take a complete U-turn of the Golden Gate Bridge to pick me up, because of course I'm an idiot who ran across the bridge on the right side of the bridge. And there was no way for me to cross the road, since it was like a highway road with cars speeding at 100+ kmph if not more.
+3. Time is like 9:30ish already, darkness has started to set in. I walked towards Sausalito in hopes of finding a way to cross the road, I ran, for a while. But it was complete darkness so I decided to get back to the "closed" gate since at least there was light there, as I wasn't sure of safety in the darkness in a forest region (animals etc). So I came back to the closed gate. On the way back, a police van from the other side of the road threw a spotlight at me and shouted "Don't run on the main road, be on the side road". I immediately acted upon it but was shit scared lmao.
 4. I called my Yugabyte colleague with whom I had plans to visit Alcatraz the next day. He gave me moral support lol, as unfortunately it wasn't possible for him to come pick me up. Anyway I found a restroom sort of a place (like an inn of sorts), the colleague also suggested going to that place and then trying out Uber from there. So I did that. Ubers still kept cancelling. Ultimately I found an Uber with the driver name "Dharminder" so I called him and said "Dharminder paaji aa rahe ho na?" lol, and told him how I'm stuck here for the past 3 hours and everyone keeps cancelling and that I'd happily pay him a few bucks in tip etc etc. Anyway, he assured me that he's coming, and I waited and waited, and he came, picked me up, dropped me to my hotel, and sighed in relief.
-5. I was hungry because ofcourse I didn't have a proper dinner and the last thing I had eaten was a few tortilla chips what felt like 10 hours ago. So I just made some coffee in the hotel room's coffee machine.
+5. I was hungry because of course I didn't have a proper dinner and the last thing I had eaten was a few tortilla chips what felt like 10 hours ago. So I just made some coffee in the hotel room's coffee machine.
 
 And slept. Interesting day in hindsight but definitely shit scary in the moment lol.
 
@@ -164,7 +164,7 @@ And slept. Interesting day in hindsight but definitely shit scary in the moment 
 
 ### Day 5 (10th June, 2026)
 
-Checkout from Hyatt was quick. They said the 400 USD was a hold on the credit card, not a debit, and it would take 2-3 days to release that hold - which it was, no issues on that front.
+Checkout from Hyatt was quick. They said the 400 USD was a hold on the credit card, not a debit, and it would take 2-3 days to release that hold - which it did, no issues on that front.
 
 Dropped off my bags at the Yugabyte friend's place, then took an Uber to [Golden Gate Bridge Welcome Center](https://maps.app.goo.gl/cU5Bh1XXeQSmyoWC6). Bought 2 t-shirts, 1 notebook, and a keychain, all together for 81 USD. T-shirts were 28 USD each.
 
@@ -250,7 +250,7 @@ I walked through the hallways, realised there's something called Hoover Tower, s
 
 Then headed to my friend's place. I had dinner plans with another Yugabyte colleague who picked me up at 6 PM from home in his Tesla.
 
-Oh also, it was my birthday!!! - I was just roaming here and there at noon and I started getting birthday texts only to realise that 11th June afternoon PT timezone is 12th in India so it's my birthday already lol happy birthday to me.
+Oh also, it was my birthday!!! - I was just roaming here and there at noon and I started getting birthday texts only to realise that 11th June afternoon PT time zone is 12th in India, so it's my birthday already lol happy birthday to me.
 
 ### Day 8 (13th June, 2026)
 
@@ -278,7 +278,7 @@ I was feeling feverish so I rested the whole day lol. Slept the whole day. Waste
 
 I left my friend's place at 9:30 AM so that I could reach SFO Terminal 1 by 10:30 at max. Reached airport at 10:25 AM.
 
-We had a 6 hour layover in Tokyo. I withdrew 10k yen at Narita airport using DCB Niyo. Got 1 note of 10k yen. I bought a Weekly Shonen Jump magazine (yes it's in Japanese, no I can't read it, shut up), and some chocolates. And oh, ofcourse, a chewing gum as mentioned above somewhere.
+We had a 6-hour layover in Tokyo. I withdrew 10k yen at Narita airport using DCB Niyo. Got one 10k yen note. I bought a Weekly Shonen Jump magazine (yes it's in Japanese, no I can't read it, shut up), and some chocolates. And oh, of course, a chewing gum as mentioned above somewhere.
 
 Landed in Delhi on 17th early morning. Good trip! (except the Yosemite day and fever day I suppose)
 
@@ -302,7 +302,7 @@ I used these primarily:
 
 ![](/assets/images/usa/apps.png){width: 600px}
 
-### Random other notes:
+### Random other notes
 
 - I probably spent around 1 lakh INR on the whole trip.
 - Uber prices were insane, 20-30 USD :(
